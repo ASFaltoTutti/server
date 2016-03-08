@@ -1,9 +1,4 @@
-/* From 
-  ECHOSERV.C
-  ==========
-  (c) Paul Griffiths, 1999
-  Email: mail@paulgriffiths.net
-  
+/* 
   Simple TCP/IP echo server.
   * Adatted by TB
   * Da provare con 
